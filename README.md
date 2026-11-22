@@ -57,4 +57,4 @@ Apple Silicon Mac と Xcode Command Line Tools が必要です。macOS 27.0.1 �
 - [レシートの権限と購入復旧の事例（Qiita）](https://qiita.com/yun_98/items/9eeeb1f9f7829c446fec)
 - [Apple Music が同時に開く場合の事例（note）](https://note.com/sorairo555/n/nb8a4ac3ed60c)
 
-[MIT License](LICENSE)。torne mobile や nasne のメーカーとは関係のない非公式ツールです。
+[MIT License](LICENSE)。torne mobile や nasne とは関係のない非公式ツールです。
